@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Apartment 199x</title>
+  <style>
+    body {
+      background: #0f0f0f;
+      color: #ccc;
+      font-family: 'Courier New', monospace;
+      padding: 2rem;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #ff007c;
+      font-size: 2rem;
+    }
+    .glitch {
+      text-shadow: 2px 0 #0ff, -2px 0 #f0f;
+    }
+    a {
+      color: #0ff;
+    }
+  </style>
+</head>
+<body>
+  <h1 class="glitch">Apartment 199x</h1>
+  <p>A psychological time-loop RP with glitchcore aesthetics.</p>
+  <p>This site will soon be home to the full resident handbook, character application, and mysteries hidden in the loop.</p>
+  <p>Stay tuned.</p>
+</body>
+</html>
